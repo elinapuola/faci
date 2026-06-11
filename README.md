@@ -27,8 +27,27 @@ Like the audit log, you'll need to create a text channel with the name that star
 
 Current event-related events that are posted to the event-channel
 - Event is created
-- Event information is updated
+- Event information is updated (this includes when event starts)
 - Event is deleted
+
+*event updated:
+
+<img width="422" height="48" alt="image" src="https://github.com/user-attachments/assets/1e149bdd-2c19-4067-b110-19b39ca80ad4" />
+
+
+* event started:
+
+<img width="223" height="57" alt="image" src="https://github.com/user-attachments/assets/4526e535-9d07-444c-b432-69c084178e9e" />
+
+*event ended:
+
+<img width="211" height="50" alt="image" src="https://github.com/user-attachments/assets/069c21a3-36ec-4c40-93a0-f28a8cc37b0e" />
+
+
+* event deleted:
+
+<img width="344" height="49" alt="image" src="https://github.com/user-attachments/assets/3ab24dc8-96cd-46f8-8572-e99186d707cc" />
+
 ### Commands
 ![image](https://user-images.githubusercontent.com/95315272/227976915-e7385c95-b1d3-40ed-963a-cf5e3841a935.png)
 All faci commands start with the !-prefix.
