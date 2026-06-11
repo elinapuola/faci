@@ -18,6 +18,35 @@ Current events that are posted to the audit-channel
 - A member is banned
 - A member is on a timeout
 - A user is unbanned
+
+*new member:*
+
+<img width="344" height="49" alt="image" src="https://github.com/user-attachments/assets/3ab24dc8-96cd-46f8-8572-e99186d707cc" />
+
+*invite created:*
+
+<img width="479" height="52" alt="image" src="https://github.com/user-attachments/assets/4e62a94a-2789-46b8-aa1d-f84b39e65c9b" />
+
+*member leaves:*
+
+<img width="233" height="43" alt="image" src="https://github.com/user-attachments/assets/8fcc4f41-8095-466f-bf2e-14d547456c2b" />
+
+*member kicked:*
+
+<img width="356" height="43" alt="image" src="https://github.com/user-attachments/assets/3bb889ff-ecbd-4a81-ac88-0732133e1377" />
+
+*member timed out:*
+
+<img width="327" height="38" alt="image" src="https://github.com/user-attachments/assets/32f5f615-335a-4575-99f4-95e85a0535ad" />
+
+*user unbanned:*
+
+<img width="196" height="50" alt="image" src="https://github.com/user-attachments/assets/007cad61-bf11-4fbf-92da-b63d0e437a3a" />
+
+
+
+
+
 ### Scheduled Events
 ![image](https://user-images.githubusercontent.com/95315272/227977482-0731f7a7-442c-4556-b025-2008c95eff44.png)
 
@@ -30,21 +59,21 @@ Current event-related events that are posted to the event-channel
 - Event information is updated (this includes when event starts)
 - Event is deleted
 
-*event updated:
+*event updated:*
 
 <img width="422" height="48" alt="image" src="https://github.com/user-attachments/assets/1e149bdd-2c19-4067-b110-19b39ca80ad4" />
 
 
-* event started:
+*event started:*
 
 <img width="223" height="57" alt="image" src="https://github.com/user-attachments/assets/4526e535-9d07-444c-b432-69c084178e9e" />
 
-*event ended:
+*event ended:*
 
 <img width="211" height="50" alt="image" src="https://github.com/user-attachments/assets/069c21a3-36ec-4c40-93a0-f28a8cc37b0e" />
 
 
-* event deleted:
+*event deleted:*
 
 <img width="344" height="49" alt="image" src="https://github.com/user-attachments/assets/3ab24dc8-96cd-46f8-8572-e99186d707cc" />
 
