@@ -121,5 +121,13 @@ example: !roll 150 - 3d8 + 6d3
 <img width="190" height="140" alt="image" src="https://github.com/user-attachments/assets/a309198a-a30c-4103-8ade-f69cf8720ced" />
 
 
+## Terms of Service
+1. Do not spam commands
+2. Do not use for anything else than the intended purpose
+
+## Privacy Policy
+This bot can see discord events and read the text channels it has been given access to. It will only send messages to answer commands, and send audit messages and event notifications as listed above in the usage section.
+Your guild nor your user data is not saved in any capacity.
+
 ## Reporting bugs
 To report your possible experienced bugs, please join discord server https://discord.gg/Xde7C47kYD
